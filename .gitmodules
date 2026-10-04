@@ -1,0 +1,4 @@
+[submodule "core/Clash.Meta"]
+	path = core/Clash.Meta
+	url = git@github.com:tljk/Clash.Meta.git
+	branch = v0.8.94
